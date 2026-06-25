@@ -1,7 +1,8 @@
-# Hi 👋, I'm Aman Sharma
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=24292F&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Engineer;Flask+Backend+Developer;Google+Developer+Program+Graduate" />
+  <img src="banner.png" alt="Aman Sharma Banner" width="100%">
 </p>
+# Hi 👋, I'm Aman Sharma
+
 
 ## 🚀 About Me
 
