@@ -47,20 +47,19 @@
 
 ---
 
-## 🏆 Google Developer Program
+## 🏆 Google Developer Achievements
 
-🎓 Google Developer Program Graduate (2026)
+🎓 **Google Developer Program** • [View](https://developers.google.com/profile/badges/profile/created-profile?u=100016869856800955495)
 
-✔ TensorFlow
-✔ Image Classification
-✔ Object Detection
-✔ Product Image Search
+📚 **Learning Recognition** • [View](https://developers.google.com/profile/badges/recognitions/learnings?u=100016869856800955495)
 
-<p align="center">
-<a href="https://developers.google.com/profile/u/100016869856800955495">
-<img src="https://img.shields.io/badge/View%20Google%20Developer%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white">
-</a>
-</p>
+🧠 **TensorFlow Learning Path** • [View](https://developers.google.com/profile/badges/playlists/tensorflow?u=100016869856800955495)
+
+🖼️ **Advanced Image Classification** • [View](https://developers.google.com/profile/badges/playlists/ml/going-further-image-classification?u=100016869856800955495)
+
+🎯 **Advanced Object Detection** • [View](https://developers.google.com/profile/badges/playlists/ml/going-further-object-detection?u=100016869856800955495)
+
+🔍 **Advanced Product Image Search** • [View](https://developers.google.com/profile/badges/playlists/ml/going-further-image-product-search?u=100016869856800955495)
 
 ---
 
