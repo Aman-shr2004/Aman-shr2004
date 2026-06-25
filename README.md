@@ -2,6 +2,7 @@
   <img src="banner.png" alt="Aman Sharma Banner" width="100%">
 </p>
 # Hi 👋, I'm Aman Sharma
+### Python Developer • Machine Learning Enthusiast • Flask Backend Developer
 
 
 ## 🚀 About Me
@@ -30,15 +31,15 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aman-shr2004&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aman-shr2004&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-shr2004&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-shr2004&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Aman-shr2004&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Aman-shr2004&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
