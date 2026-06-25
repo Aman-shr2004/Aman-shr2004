@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aman Sharma
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aman+Sharma;Python+Developer;Machine+Learning+Enthusiast;Flask+Backend+Developer;Google+Developer+Program+Graduate" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=24292F&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Engineer;Flask+Backend+Developer;Google+Developer+Program+Graduate" />
 </p>
 
 ## 🚀 About Me
@@ -20,6 +20,24 @@
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=python,flask,tensorflow,sklearn,html,css,js,bootstrap,mysql,sqlite,git,github,vscode&theme=light" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aman-shr2004&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-shr2004&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Aman-shr2004&theme=tokyonight"/>
 
 </p>
 
