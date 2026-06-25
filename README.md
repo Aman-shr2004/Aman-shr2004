@@ -1,4 +1,7 @@
 # Hi 👋, I'm Aman Sharma
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aman+Sharma;Python+Developer;Machine+Learning+Enthusiast;Flask+Backend+Developer;Google+Developer+Program+Graduate" alt="Typing SVG" />
+</p>
 
 ## 🚀 About Me
 
@@ -7,7 +10,7 @@
 - 🌐 Flask Backend Developer
 - 🤖 Machine Learning Enthusiast
 - 🧠 Solving DSA Problems
-- 🎖️ Completed Google Developer Program / Internship
+- 🎓 Google Developer Program Graduate (2026)
 - 🌱 Currently learning Deep Learning & AI
 
 ---
