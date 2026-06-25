@@ -47,35 +47,21 @@
 
 ---
 
-## 🏆 Google Developer Achievements
+## 🏆 Google Developer Program
 
-<table>
-<tr>
-<td>🎓 Google Developer Program</td>
-<td><a href="https://developers.google.com/profile/u/100016869856800955495">🔗 View</a></td>
-</tr>
+🎓 Google Developer Program Graduate (2026)
 
-<tr>
-<td>🧠 TensorFlow Learning Path</td>
-<td><a href="https://developers.google.com/profile/badges/playlists/tensorflow?u=100016869856800955495">🔗 View</a></td>
-</tr>
+✔ TensorFlow
+✔ Image Classification
+✔ Object Detection
+✔ Product Image Search
 
-<tr>
-<td>🖼️ Advanced Image Classification</td>
-<td><a href="https://developers.google.com/profile/badges/playlists/ml/going-further-image-classification?u=100016869856800955495">🔗 View</a></td>
-</tr>
+<p align="center">
+<a href="https://developers.google.com/profile/u/100016869856800955495">
+<img src="https://img.shields.io/badge/View%20Google%20Developer%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white">
+</a>
+</p>
 
-<tr>
-<td>🎯 Advanced Object Detection</td>
-<td><a href="https://developers.google.com/profile/badges/playlists/ml/going-further-object-detection?u=100016869856800955495">🔗 View</a></td>
-</tr>
-
-<tr>
-<td>🔍 Advanced Product Image Search</td>
-<td><a href="https://developers.google.com/profile/badges/playlists/ml/going-further-image-product-search?u=100016869856800955495">🔗 View</a></td>
-</tr>
-
-</table>
 ---
 
 ## 🚀 Featured Projects
