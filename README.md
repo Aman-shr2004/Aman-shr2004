@@ -49,8 +49,20 @@
 
 ## 🏆 Google Developer Achievements
 
-Coming Soon...
+- 🎓 **Google Developer Program Graduate (2026)**  
+  🔗 https://developers.google.com/profile/u/100016869856800955495
 
+- 🧠 **TensorFlow Learning Path**
+  🔗 https://developers.google.com/profile/badges/playlists/tensorflow?u=100016869856800955495
+
+- 🖼️ **Advanced Image Classification**
+  🔗 https://developers.google.com/profile/badges/playlists/ml/going-further-image-classification?u=100016869856800955495
+
+- 🎯 **Advanced Object Detection**
+  🔗 https://developers.google.com/profile/badges/playlists/ml/going-further-object-detection?u=100016869856800955495
+
+- 🔍 **Advanced Product Image Search**
+  🔗 https://developers.google.com/profile/badges/playlists/ml/going-further-image-product-search?u=100016869856800955495
 ---
 
 ## 🚀 Featured Projects
