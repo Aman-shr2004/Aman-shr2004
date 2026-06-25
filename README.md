@@ -12,18 +12,13 @@
 
 ---
 
-## 💼 Tech Stack
+## 💻 Tech Stack
 
-- Python
-- Flask
-- TensorFlow
-- Scikit-learn
-- HTML
-- CSS
-- JavaScript
-- SQL
-- Git
-- GitHub
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,flask,tensorflow,sklearn,html,css,js,bootstrap,mysql,sqlite,git,github,vscode&theme=light" />
+
+</p>
 
 ---
 
@@ -33,6 +28,15 @@
 - 🤖 Attendance AI
 - 🖼️ CNN Image Classification
 - 📚 LeetCode Solutions (Coming Soon)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Completed Google Developer Program
+- 🎖️ Earned multiple Google Developer Badges
+- 🤖 Built AI & Machine Learning Projects
+- 💻 Active Python & Flask Developer
 
 ---
 
